@@ -44,7 +44,7 @@ Melody AI is an MLOPS platform that will scale your business to new heights with
 Connect to limitless opportunities
 Octave Talents connects skilled tech professionals to opportunities that enable them to reach their full potential.
 
-Unleashing the tech ntrepreneurs of the future
+Unleashing the tech entrepreneurs of the future
 Octave digital university is dedicated to empowering the next generation of tech, equipping them with the skills and knowledge necessary to thrive in the digital world.
 
 Note: The organization's projects are for internal use only and are not open-source. Access to the organization's codebase is restricted to authorized members only.

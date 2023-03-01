@@ -35,7 +35,7 @@ Join a community of tech talents who are solving complex problems in Africa to a
 
 
 <!-- Projects -->
-Learn with the best experience 
+Learn with the best experience
 Choose from our uniquely designed courses to build value-adding skills and enroll for free virtual internships that help you gain real work experience.
 
 Scale your business with AI
